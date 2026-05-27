@@ -51,7 +51,11 @@ Side profile showing assembly thickness, shaft placement, and linkage elevation.
 
 ## Motion Demonstration
 
-(Motion video included in repository)
+
+
+https://github.com/user-attachments/assets/470e92b0-6d38-417c-9d7f-7483887a13bd
+
+
 
 ---
 
